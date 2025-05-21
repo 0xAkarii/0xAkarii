@@ -10,7 +10,7 @@ I'm an 8th-semester undergraduate student majoring in Informatics Engineering. C
 
 ## 🔧 Skills & Interests
 - **Cybersecurity**: Penetration Testing, Bug Bounty
-- **Programming**: Python (beginner), JavaScript (beginner), Bash, PHP (intermediate)
+- **Programming**: Python (beginner), JavaScript (beginner), PHP (intermediate),  Bash Scripting
 - **Web Security**: OWASP TOP 10
 - **Tools**: Burp Suite, Nmap, Metasploit, and other tools.
 
