@@ -6,7 +6,7 @@ With several years of experience exploring system vulnerabilities, I focus on id
 
 ## About Me
 - Dedicated to building a safer digital environment through ethical hacking and responsible disclosure.  
-- xperienced in analyzing real-world security vulnerabilities and reproducing exploit scenarios.  
+- Experienced in analyzing real-world security vulnerabilities and reproducing exploit scenarios.  
 - Graduated with a **Bachelor’s degree in Computer Science (S.Kom)**, with a thesis focused on **IoT Security and Smart Home Intrusion Detection**.  
 - Outside of cybersecurity, I enjoy playing **Mobile Legends**, **Valorant**, and **Genshin Impact** to unwind and stay creative.  
 - Always open to learning, collaboration, and contributing to cybersecurity communities.  
